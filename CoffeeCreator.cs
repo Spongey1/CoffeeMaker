@@ -8,6 +8,7 @@ namespace Coffee
 
         public float functionality()
         {
+            // Returns the amount of cups filled
             return literOfWater / cupLiqudLimit;
         }
     }
